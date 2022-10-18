@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=><img width="32px" alt="Mypage" title="Mypage" src="https://cdn-icons-png.flaticon.com/512/7781/7781521.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="linkedin" title="My Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-charris-7a5a90206/"><img width="32px" alt="linkedin" title="My Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
