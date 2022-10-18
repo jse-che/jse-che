@@ -1,19 +1,34 @@
 <h3 align="center">
-   <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="28">
-   Welcome to Jose Charris's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=1002FF&background=AD055000&center=true&multiline=true&width=510&height=40&lines=WELCOME+TO+JOSE%C2%B4S+PROFILE!+" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/jse_che"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=><img width="32px" alt="Mypage" title="Mypage" src="https://cdn-icons-png.flaticon.com/512/5973/5973800.png"></a>
+  <a href=><img width="32px" alt="Mypage" title="Mypage" src="https://cdn-icons-png.flaticon.com/512/7781/7781521.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="linkedin" title="My Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!-- Language -->
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=secular+one&duration=700&pause=1000&color=CA6612&background=FFFFFF00&vCenter=true&width=100&height=30&lines=Hola!;Hello!;Hallo!;Salut!;Ciao!;Ola!;%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E4%BD%A0%E5%A5%BD+" alt="Typing SVG" /></a>
+
+### ⚡About me
+* My name is Jose Charris😎
+
+* I am frontend developer and electronic👨‍💻
+
+* I 💖 Video game🕹
+
+* Living near Barranquilla, Colombia🍃
+
+
+</p>
 <br/>
 
 ## 🛠️ My favorite tools
