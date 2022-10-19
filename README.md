@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=secular+one&duration=700&pause=1000&color=CA6612&background=FFFFFF00&vCenter=true&width=100&height=30&lines=Hola!;Hello!;Hallo!;Salut!;Ciao!;Ola!;%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+;%E4%BD%A0%E5%A5%BD+" alt="Typing SVG" /></a>
 
-### ⚡About me
+### About me⚡
 * My name is Jose Charris😎
 
 * I am frontend developer and electronic👨‍💻
