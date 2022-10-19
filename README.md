@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://twitter.com/jse_che"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=>"https://josecharris.vercel.app/"<img width="32px" alt="Mypage" title="Mypage" src="https://cdn-icons-png.flaticon.com/512/7781/7781521.png"></a>
+  <a href="https://josecharris.vercel.app/"><img width="32px" alt="Mypage" title="Mypage" src="https://cdn-icons-png.flaticon.com/512/7781/7781521.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jos%C3%A9-charris-7a5a90206/"><img width="32px" alt="linkedin" title="My Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
