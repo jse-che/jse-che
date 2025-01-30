@@ -21,7 +21,7 @@
 ### ⚡About me
 * My name is Jose Charris😎
 
-* I am frontend developer and electronic👨‍💻
+* I am Mechatronics Engineer⚙️ & Front-end Dev👨‍💻
 
 * I 💖 Video game🕹
 
